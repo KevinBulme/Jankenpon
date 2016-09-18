@@ -112,7 +112,9 @@ img {
 #banner{
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 20px;
+    margin-top: -60px;
+    width: 600px;
+    height: 338px;
 }
 
 
