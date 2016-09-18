@@ -1,2 +1,3 @@
-# tiny-blog
-A great blog for a great trip :)
+# Jankenpon
+
+See the live version [here](https://kevinbulme.github.io/Jankenpon/)
